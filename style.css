@@ -99,10 +99,10 @@ body {
 image {
   display: flex;
   width: 600px;
-  height: 600px;
+  height: 400px;
   justify-content: center;
 
-  border-radius: 4%;
+  border-radius: 4;
 
   margin-top: 10px;
   margin-left: 10px;
